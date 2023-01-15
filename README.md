@@ -1,7 +1,7 @@
 # Baby Care
 ![BabyCare](https://user-images.githubusercontent.com/90386813/212526112-30b7bdf3-a7d4-43b6-bb7b-c1592823904d.gif)
 
-Baby care is a one stop solution for parents to get all their queries related to pregnancy, child care, mother's health and pareting questions resolved.
+Baby care is a one stop solution for parents to get all their queries related to pregnancy, child care, mother's health and parenting questions resolved.
 
 It is powered by Open AI API and thus you'll get answers similar to ChatGPT for free.
 
