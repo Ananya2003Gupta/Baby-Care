@@ -19,7 +19,7 @@ Install the requirements given in requirements.txt in your system
 
 ## Baby Care Web
 ### Cloning Repository
-To install Baby Care Bot in your system
+To install Baby Care Web in your system
 
 > git clone https://github.com/Ananya2003Gupta/Baby-Care/tree/main/Baby%20Care%20Web
 
